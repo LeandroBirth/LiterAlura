@@ -1,0 +1,10 @@
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/LiterAluraApplication.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/configuration/AppConfig.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/configuration/CorsConfiguration.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/controller/LibraryController.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/model/Author.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/model/Book.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/model/Library.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/repository/LibraryRepository.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/service/ApiFetch.java
+/Users/leandro/Documents/Programas.IntelliJ/LiterAlura/src/main/java/com/birth/LiterAlura/service/LibraryService.java
